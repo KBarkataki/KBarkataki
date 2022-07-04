@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KBarkataki
+- 👀 I’m interested in building and using software packages catered to Knot theory and its Applications.
+- 🌱 I enjoy coding in Python.
